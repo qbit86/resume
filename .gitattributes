@@ -3,10 +3,8 @@
 .editorconfig   text
 .gitattributes  text
 .gitignore  text
-*.cs    text diff=csharp
-*.csproj    text
-*.DotSettings   text
+*.css   text
+*.html  text
 *.md    text
-*.props text
-*.sln   text
-*.txt   text
+*.ps1   text
+*.yaml  text
