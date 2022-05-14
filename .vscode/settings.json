@@ -1,0 +1,6 @@
+{
+    "gitdoc.enabled": false,
+    "markdown.styles": [
+        "src/styles/vscode-preview.css"
+    ]
+}
