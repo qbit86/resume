@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  max-width: none;
+  padding: 0;
+}
+
+header > h1 {
+  line-height: 1;
+}
+
+@page {
+  @bottom-center {
+    content: counter(page) '/' counter(pages);
+  }
+
+  margin: 1in;
+  size: A4;
+}
