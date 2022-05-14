@@ -1,4 +1,2 @@
 css: ['${.}/../styles/pdf.css']
 output-file: out/__intermediate.html
-self-contained: true
-variables: { pagetitle: 'Viktor Tselov - C# developer' }

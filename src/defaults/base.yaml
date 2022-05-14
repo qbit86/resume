@@ -2,6 +2,7 @@ css: ['${.}/../styles/base.css']
 from: commonmark_x
 input-file: ${.}/../resume-viktor-tselov.md
 metadata: { author-meta: 'Viktor Tselov', lang: en-US }
+self-contained: true
 to: html5
-variables: { document-css: false }
+variables: { document-css: false, pagetitle: 'C# developer - Viktor Tselov' }
 wrap: preserve

@@ -1,4 +1,2 @@
 css: ['${.}/../styles/html.css']
 output-file: out/resume-viktor-tselov.html
-self-contained: true
-variables: { title-prefix: 'C# developer' }
