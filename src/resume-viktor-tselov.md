@@ -4,7 +4,7 @@ subtitle: 'Software developer with experience in C# and .NET'
 ---
 - ![Email][]{.simple-icon}<viktor.tselov@gmail.com>
 - ![Telegram][]{.simple-icon}<https://t.me/viktor_pti>
-- ![LinkedIn][]{.simple-icon}<https://linkedin.com/in/viktor-tselov-779ba365/>
+- ![LinkedIn][]{.simple-icon}<https://linkedin.com/in/viktor-tselov/>
 - ![GitHub][]{.simple-icon}<https://github.com/qbit86>
 - ![NuGet][]{.simple-icon}<https://nuget.org/profiles/qbit86>
 
