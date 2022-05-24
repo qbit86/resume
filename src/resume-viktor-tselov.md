@@ -16,9 +16,9 @@ subtitle: 'Software developer with experience in C# and .NET'
 
 ## About
 
-While my professional background is C# and .NET, I also have experience in C++/Boost, and I don't mind getting into Kotlin or TypeScript occasionally.
-My interests include math, algorithms and functional programming.
-I am familiar with Framework Design Guidelines and follow best practices, language idioms and modern conventions.
+While my professional background is C# and .NET, I also have experience in C++/Boost, and I don't mind getting into Kotlin or TypeScript occasionally.
+My interests include math, algorithms and functional programming.
+I am familiar with Framework Design Guidelines and follow best practices, language idioms and modern conventions.
 
 ## Skills
 
@@ -50,7 +50,7 @@ Jan 2009 — Sep 2013: **“Design and Programming”**
   Desktop application for document management using MS SQL Server. [C#, WPF]
 
 Sep 2007 — Sep 2008: **Research Institute “Spetsvuzavtomatika”**
-: Developed some custom steps in Huffman encoding of AC coefficients in JPEG format. [C++, Boost]  
+: Developed some custom steps in Huffman encoding of AC coefficients in JPEG format. [C++, Boost]  
   Web scraping utility for downloading a bunch of photos. [C#]
 
 ## Certificates
