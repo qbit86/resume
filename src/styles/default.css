@@ -11,6 +11,10 @@ body {
   max-width: 17cm;
 }
 
+header {
+  text-align: center;
+}
+
 header > h1 {
   line-height: 1;
   margin-top: 0;
