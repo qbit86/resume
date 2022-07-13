@@ -1,0 +1,12 @@
+html {
+  background-color: #ddf;
+}
+
+body {
+  background-color: #ccf;
+  font-family: Georgia, serif;
+  font-size: 12pt;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 17cm;
+}
