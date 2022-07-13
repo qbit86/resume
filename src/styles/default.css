@@ -20,7 +20,7 @@ header > h1 {
   margin: 0;
 }
 
-header + ul {
+ul:first-of-type {
   list-style: none;
   padding-left: 0;
 }
