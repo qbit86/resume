@@ -25,7 +25,7 @@ ul:first-of-type {
   padding-left: 0;
 }
 
-li > img {
+img[src^="https://unpkg.com/simple-icons"] {
   height: 1em;
   margin-bottom: -0.15em;
   padding-right: 0.5em;
