@@ -7,6 +7,11 @@ body {
   font-family: Georgia, serif;
   font-size: 12pt;
   line-height: 1.5;
-  margin: 0 auto;
+  margin: 2cm auto;
   max-width: 17cm;
+}
+
+header > h1 {
+  line-height: 1;
+  margin-top: 0;
 }
