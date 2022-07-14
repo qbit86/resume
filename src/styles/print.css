@@ -1,10 +1,5 @@
 @media print {
-  html {
-    background-color: #dfd;
-  }
-
   body {
-    background-color: #cfc;
     margin: 0;
   }
 
