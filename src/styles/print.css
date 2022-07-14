@@ -8,8 +8,12 @@
     margin: 0;
   }
 
-  h2 {
+  h2, dt {
     page-break-after: avoid;
+  }
+
+  dd {
+    page-break-before: avoid;
   }
 }
 
