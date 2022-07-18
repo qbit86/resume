@@ -1,6 +1,6 @@
 css: ['${.}/../styles/default.css', '${.}/../styles/print.css']
 from: html
-metadata: { author-meta: 'Viktor Tselov', lang: en-US }
+metadata: { author-meta: 'Viktor Tselov', lang: en }
 self-contained: true
 template: '${.}/../defaults/template.html5'
 to: html5
