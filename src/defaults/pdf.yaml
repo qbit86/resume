@@ -1,2 +1,0 @@
-css: ['${.}/../styles/pdf.css']
-output-file: out/__intermediate.html
