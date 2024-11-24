@@ -4,5 +4,5 @@ metadata: { author-meta: 'Viktor Tselov', lang: en }
 self-contained: true
 template: '${.}/../defaults/template.html5'
 to: html5
-variables: { document-css: false, pagetitle: 'C# developer - Viktor Tselov' }
+variables: { document-css: false, pagetitle: 'Viktor Tselov - .NET developer' }
 wrap: preserve
