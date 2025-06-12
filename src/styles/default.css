@@ -34,3 +34,7 @@ img[src^="https://unpkg.com/simple-icons"], img[src^="data:image/svg+xml;base64"
   margin-bottom: -0.15em;
   padding-right: 0.5em;
 }
+
+address {
+  font-style: normal;
+}
