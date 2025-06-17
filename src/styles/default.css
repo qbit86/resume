@@ -28,7 +28,7 @@ h2 {
   margin-bottom: 0.4em;
 }
 
-ul:first-of-type {
+ul.no-bullets {
   list-style: none;
   padding-left: 0;
 }
