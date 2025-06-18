@@ -33,6 +33,11 @@ ul.no-bullets {
   padding-left: 0;
 }
 
+ul.no-padding {
+  margin: 0;
+  padding: 0;
+}
+
 img[src^="https://unpkg.com/simple-icons"], img[src^="data:image/svg+xml;base64"] {
   height: 1em;
   margin-bottom: -0.15em;
